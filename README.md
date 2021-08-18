@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barno1994
 - 👀 I’m interested in Coding && Security
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning python scripting and Django
 - 💞️ I’m looking to collaborate on Webbased applications
 - 📫 How to reach me mail@ barno.baptu@gmail.com
 
